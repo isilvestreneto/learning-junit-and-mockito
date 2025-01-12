@@ -6,7 +6,7 @@ import br.ma.isilvestreneto.entidades.Usuario;
 
 import java.util.Date;
 
-import static br.ce.wcaquino.utils.DataUtils.adicionarDias;
+import static br.ma.isilvestreneto.utils.DataUtils.adicionarDias;
 
 public class LocacaoService {
 
